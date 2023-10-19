@@ -1,1 +1,2 @@
-# CSPC254_Lab7
+# CSPC254_Lab
+Git installation Lab 7
